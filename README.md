@@ -1,2 +1,0 @@
-# tmpreacttable
-Created with CodeSandbox
